@@ -1,1 +1,1 @@
-# Basic-Variables-Input-Output
+# Practice JavaScript Basic-Variables-Input-Output
